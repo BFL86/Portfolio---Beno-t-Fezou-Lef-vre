@@ -1,0 +1,164 @@
+header {
+    background: left 5% / 30% 100% repeat-x url("ensemble-objets-lies-aux-jeux-video-dans-style-neon-lineaire_24908-58670.jpg");
+    color: white;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+h1 {
+    margin-right: 150px;
+    color: #fff;
+    text-shadow:
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF,
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF,
+        0 0 5px #FF00FF,
+        0 0 5px #FF00FF,
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    text-shadow:
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF,
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF,
+        0 0 5px #FF00FF,
+        0 0 5px #FF00FF,
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF;
+}
+
+h3 {
+    color: #fff;
+    text-shadow:
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF,
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF,
+        0 0 5px #FF00FF,
+        0 0 5px #FF00FF,
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF;
+}
+
+img {
+    margin-right: 20px;
+}
+
+body {
+    background: content-box radial-gradient(purple, black);
+    color: rgb(255, 255, 255);
+}
+
+ul {
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    text-align: center;
+    background: left 5% / 15% 100% repeat-x url("ensemble-objets-lies-aux-jeux-video-dans-style-neon-lineaire_24908-58670.jpg");
+}
+
+h4 {
+    font-family: "Gill Sans", sans-serif;
+    color: #fff;
+    text-shadow:
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF,
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF,
+        0 0 5px #FF00FF,
+        0 0 5px #FF00FF,
+        0 0 5px #9932CC,
+        0 0 5px #FF00FF;
+}
+
+section {
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+p {
+    font-family: "Gill Sans", sans-serif;
+}
+
+#pre {
+    font-size: 170%;
+    padding-top: 3%;
+}
+
+#form {
+    font-size: 170%;
+    list-style-type: square;
+    list-style: url("game-controller (1).png");
+    padding-top: 3%;
+}
+
+#reca {
+    font-size: 170%;
+    list-style: url("game-controller (1).png");
+    padding-top: 3%;
+}
+
+#papro {
+    font-size: 170%;
+    list-style: url("game-controller (1).png");
+    padding-top: 3%;
+}
+
+#harski {
+    font-size: 170%;
+    list-style: url("game-controller (1).png");
+    padding-top: 3%;
+}
+
+#sofski {
+    font-size: 170%;
+    list-style: url("game-controller (1).png");
+    padding-top: 3%;
+}
+
+#atouts {
+    font-size: 170%;
+    list-style: url("game-controller (1).png");
+    padding-top: 3%;
+}
+
+#loisirs {
+    font-size: 170%;
+    list-style: url("game-controller (1).png");
+    padding-top: 3%;
+}
+
+td {
+    border-style: outset;
+    border-color: #4f5d61;
+    background: linear-gradient(rgb(224, 160, 253), rgb(172, 112, 230), rgb(130, 69, 211));
+}
+
+.tete{
+    display: flex;
+}
+
+.tata {
+    position: -webkit-sticky;
+    position: sticky;
+    top: -1px;
+    display: flex;
+    justify-content: center;
+    font-size: 200%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background: left 5% / 10% 100% repeat-x url("ensemble-objets-lies-aux-jeux-video-dans-style-neon-lineaire_24908-58670.jpg");
+    width: 100%;
+}
+
+.toto {
+    margin: 0%;
+}
